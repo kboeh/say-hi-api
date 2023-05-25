@@ -1,6 +1,7 @@
 {
   "name": "say-hi-api",
   "version": "1.0.0",
+  // "proxy": "http://localhost:5000",
   "description": "api for say-hi app",
   "main": "index.js",
   "scripts": {
